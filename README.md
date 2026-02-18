@@ -8,4 +8,4 @@ EpilEducate is my first Swift app, submitted for the 2026 Swift Student Challeng
 - 📳 Multisensory Haptics: Integrated UIImpactFeedbackGenerator that allows users to physically "feel" neural spikes, improving accessibility for low-vision users.
 
 ## Demo
-![Demo Video](Videos/ScreenRecording.mov)
+![Demo Video](Videos/vid.mp4)
