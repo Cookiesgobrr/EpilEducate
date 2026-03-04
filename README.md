@@ -1,3 +1,7 @@
+<p>
+  <img src="/Assets.xcassets/AppIcon.appiconset/AppIcon-iOS-Default-1024x1024@1x.png" width="256" height="256" alt="EpilEducate App Icon">
+</p>
+
 # EpilEducate
 EpilEducate is my first Swift app, submitted for the 2026 Swift Student Challenge. It is an educational playground designed to teach users about epilepsy and what to do if they witness one happening in front of them. EpilEducate also educates about EEGs, and how brain activity is measured.
 
