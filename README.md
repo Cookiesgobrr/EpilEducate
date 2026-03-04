@@ -11,6 +11,14 @@ EpilEducate is my first Swift app, submitted for the 2026 Swift Student Challeng
 - ⚡️ Interactive Triggers: A page that demonstrates how factors like stress and sleep deprivation push the brain toward the seizure threshold.
 - 📳 Multisensory Haptics: Integrated UIImpactFeedbackGenerator that allows users to physically "feel" neural spikes, improving accessibility for low-vision users.
 
+## Try it out!
+To run EpilEducate, clone the repository:
+```
+git clone https://github.com/Cookiesgobrr/EpilEducate.git
+cd EpilEducate
+```
+Then extract the zip and open the file using Xcode 26+
+
 ## Demo
 
 
