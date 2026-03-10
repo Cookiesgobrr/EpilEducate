@@ -3,7 +3,7 @@
 </p>
 
 # EpilEducate
-EpilEducate is my first Swift app, submitted for the 2026 Swift Student Challenge. It is an educational playground designed to teach users about epilepsy and what to do if they witness one happening in front of them. EpilEducate also educates about EEGs, and how brain activity is measured.
+EpilEducate is my first Swift app, submitted for the [2026 Swift Student Challenge](https://www.github.com/wwdc/2026). It is an educational playground designed to teach users about epilepsy and what to do if they witness one happening in front of them. EpilEducate also educates about EEGs, and how brain activity is measured.
 
 
 ## Key Features
